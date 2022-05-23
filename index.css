@@ -1,0 +1,164 @@
+body {
+    padding-bottom: 500px;
+    background-color: #131313;
+}
+
+.section-2 {
+    background-color: #131313;
+}
+
+.sec2-p1 {
+    margin:0px;
+    padding-left: 250px;
+    padding-top: 120px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.sec2-p2 {
+    margin: 0px;
+    padding-left: 250px;
+    padding-top: 5px;
+}
+
+.sec2-p3 {
+    margin: 0;
+    padding-top: 55px;
+}
+
+.sec2-p5 {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.navbar {
+    background-color: #131313;
+}
+
+.sec2-button {
+    margin: 0px;
+    padding-left: 250px;
+    padding-top: 50px;
+    width: 150px;
+    font-family: 'Roboto', sans-serif;
+  
+
+}
+
+.sec5-form {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    /* padding-left: 150px;
+    padding-right: 150px; */
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right: 120px;
+    margin-left: 120px;
+    padding-bottom: 20px;
+    background-color: #131313;
+   
+    
+
+}
+
+.section-5 {
+    background-color: #131313;
+    padding-top: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.divider {
+    color: teal;
+}
+
+.sec5-maps {
+    padding-left: 15px;d
+}
+
+
+.tools {
+    width: 110px;
+}
+
+.mytools {
+    text-align: center;
+    background-color: #131313;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    
+}
+
+.sec-3-title {
+    font-family: Roboto;  
+    padding-top: 15px; 
+    padding-left: 35px;
+    padding-bottom:15px;
+}
+
+.sec-3-images {
+    
+}
+
+.project-photo {
+    width: 300px;
+}
+
+.sec4-content {
+
+    padding-top: 50px;
+    margin-left: 0;  
+    
+}
+
+.sec-4-title {
+    font-family: Roboto;  
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 35px;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .sec2-p1 {
+        margin:0px;
+        text-align: center;
+        padding-left: 50px;
+        padding-top: 80px;
+    }
+    .sec2-p2 {
+        margin: 0;
+        text-align: center;
+        padding-top: 5px;
+        padding-left: 50px;
+    }
+
+    .sec2-button {
+        margin: 0px;
+        padding-left: 190px;
+        width: 150px;
+        
+    }
+
+    .sec2-photo {
+        align-content: center;
+    }
+
+    .sec2-p3 {
+        text-align: center;
+    }
+
+    .sec2-p4 {
+        text-align: center;
+
+    }
+
+    .sec2-p5 {
+        text-align: center;
+        padding-left: 45px;
+        margin:0;
+
+        
+
+    }
+  }
